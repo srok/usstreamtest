@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.alexiscaffa.ustream" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cordova Ustream.tv</name>
+    <description>
+        Aplicación simple que reproduce un stream de ustream.tv
+    </description>
+    <author href="https://srok.com.ar">
+        Srok Desarrollos
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
